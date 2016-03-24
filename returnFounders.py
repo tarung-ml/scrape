@@ -1,4 +1,4 @@
-# Given an app, this function collect the linkedin URLs of founders
+# Given an app, this function collects the linkedin URLs of founders
 
 # Main steps in the process:
 # Step 1: Perform a google search for " $AppName + founder + linkedin"
